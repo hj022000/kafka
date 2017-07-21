@@ -1,0 +1,3 @@
+为了能快速方便使用脚本，需要给kafka_topic.sh 配置alias
+alias qq='cd /opt/hadoop/soft/kafka && sh kafka_topic.sh'
+
